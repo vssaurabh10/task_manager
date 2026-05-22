@@ -37,6 +37,10 @@ app.get("/api/health", (_req, res) => {
   res.json({ status: "ok", service: "team-task-manager-api" });
 });
 
+app.get("/", (_req, res) => {
+  res.send("Team Task Manager API Running");
+});
+
 app.use("/api/auth", authRouter);
 app.use("/api/projects", projectRouter);
 app.use("/api/tasks", taskRouter);
