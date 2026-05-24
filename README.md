@@ -5,7 +5,7 @@ A full-stack ERP-style team task management portal built with React, TypeScript,
 ---
 
 ## Demo
-🚀 You can view the live demo of the project here: [Click me]([https://task-manager-frontend-qb06.onrender.com])
+🚀 You can view the live demo of the project here: [Click me](https://task-manager-frontend-qb06.onrender.com)
 
 ---
 
