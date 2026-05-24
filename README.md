@@ -1,6 +1,6 @@
 # Team Task Manager
 
-A full-stack ERP-style team task management portal built with React, TypeScript, Express, MongoDB, Mongoose, JWT authentication, role-based access control, dashboard analytics, and a responsive operations UI.
+A full-stack team task management portal built with React, TypeScript, Express, MongoDB, Mongoose, JWT authentication, role-based access control, dashboard analytics, and a responsive operations UI.
 
 ---
 
