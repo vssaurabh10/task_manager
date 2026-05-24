@@ -2,6 +2,13 @@
 
 A full-stack ERP-style team task management portal built with React, TypeScript, Express, MongoDB, Mongoose, JWT authentication, role-based access control, dashboard analytics, and a responsive operations UI.
 
+---
+
+## Demo
+🚀 You can view the live demo of the project here: [Click me]([https://task-manager-frontend-qb06.onrender.com])
+
+---
+
 ## Features
 
 - Secure signup, login, logout, and `/me` session checks
@@ -14,12 +21,16 @@ A full-stack ERP-style team task management portal built with React, TypeScript,
 - Zod validation on frontend and backend
 - Helmet, CORS, rate limiting, global API errors, and Mongoose data modeling
 
+---
+
 ## Tech Stack
 
 - Frontend: React, TypeScript, Vite, Tailwind CSS, React Router, Axios, React Hook Form, Zod, Zustand, Recharts, lucide-react
 - Backend: Node.js, Express.js, TypeScript, Mongoose
 - Database: MongoDB
-- Deployment: Railway for backend and database, Vercel or Railway for frontend
+- Deployment: Render for backend, database and frontend
+
+---
 
 ## Project Structure
 
@@ -45,6 +56,8 @@ frontend/
     types/
     utils/
 ```
+
+---
 
 ## Local Setup
 
@@ -95,6 +108,8 @@ Seed users:
 - `admin@teamtask.dev` / `password123`
 - `member@teamtask.dev` / `password123`
 
+---
+
 ## Environment Variables
 
 Backend:
@@ -119,3 +134,8 @@ VITE_API_URL=http://localhost:5000/api
 - Project details
 - Kanban task board
 - Team directory
+
+---
+
+## Licence
+This project is licenced under the MIT Licence.
