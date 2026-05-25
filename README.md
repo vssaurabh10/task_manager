@@ -1,6 +1,6 @@
 # Team Task Manager
 
-A full-stack team task management portal built with React, TypeScript, Express, MongoDB, Mongoose, JWT authentication, role-based access control, dashboard analytics, and a responsive operations UI.
+Team Task Manager is a full-stack web application designed to help teams collaborate efficiently by managing projects and tasks in one centralized platform. The application allows users to create projects, assign tasks, track progress, and manage team workflows with role-based access control for admins and members. It provides a modern and responsive interface along with secure authentication, real-time task management features, analytics dashboards, and productivity tracking tools. Built using the MERN stack with TypeScript, the project focuses on scalability, clean architecture, and a seamless user experience across devices.
 
 ---
 
